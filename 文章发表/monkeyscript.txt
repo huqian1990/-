@@ -1,0 +1,11 @@
+typ=user 
+count=10
+speed=1.0
+start data >> 
+LaunchActivity( com.fanwe.p2p,com.fanwe.p2p.MainActivity) 
+UserWait(5000)
+#µ„ª˜
+DispatchPointer(10,10,0,200,200,1,1,-1,1,1,0,0)
+DispatchPointer(10,10,1,200,200,1,1,-1,1,1,0,0)
+# ‰»Î
+DispatchString(xiaoliu)
